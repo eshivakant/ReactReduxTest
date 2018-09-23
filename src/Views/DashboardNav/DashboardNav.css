@@ -1,0 +1,22 @@
+.Expanded{    
+    width: 300px;    
+}
+
+.Collapsed{    
+    width: 10px;    
+}
+
+.dashboardNavRootDiv{
+    background: teal;
+    display: flex;
+    flex-direction: column;  
+    color: white;  
+    padding: 10px;
+    position:fixed;
+    right:0px; 
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;    
+}
